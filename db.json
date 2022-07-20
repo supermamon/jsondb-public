@@ -1,6 +1,49 @@
 {
   "meta": {
-     "owner": "supermamon"
+    "owner": "supermamon"
   },
-  "health": []
+  "health": [
+    {
+      "id": 1,
+      "key": "20220715_STEPS",
+      "type": "steps",
+      "steps": 9723
+    },
+    {
+      "id": 2,
+      "key": "20220716_STEPS",
+      "type": "steps",
+      "steps": 10347
+    },
+    {
+      "id": 3,
+      "key": "20220717_STEPS",
+      "type": "steps",
+      "steps": 8132
+    },
+    {
+      "id": 4,
+      "key": "20220718_STEPS",
+      "type": "steps",
+      "steps": 12421
+    },
+    {
+      "id": 5,
+      "key": "20220719_STEPS",
+      "type": "steps",
+      "steps": 10347
+    },
+    {
+      "id": 6,
+      "key": "20220720_STEPS",
+      "type": "steps",
+      "steps": 6034
+    },
+    {
+      "id": 7,
+      "key": "20220721_STEPS",
+      "type": "steps",
+      "steps": 13265
+    }
+  ]
 }
