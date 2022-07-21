@@ -2,6 +2,9 @@
   "meta": {
     "owner": "supermamon"
   },
+  "collections": {
+    "health": "Health data samples"
+  },
   "health": [
     {
       "id": 1,
